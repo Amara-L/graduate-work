@@ -1,0 +1,1130 @@
+
+            <div class="inni">
+
+                <form action="" method="post">
+                    <p style="margin-bottom:5px; margin-left: 0%">
+                        <input type="text" name="nameF" placeholder="Фамилия" style=" width: 75%" required> <br>
+                        <input type="text" name="nameI" placeholder="Имя" style=" width: 75%" required> <br>
+                        <input type="text" name="nameO" placeholder="Отчество" style=" width: 75%" required> <br>
+                        <p align="left" style="margin-left: 13%; margin-bottom: -0.2ex"> Дата рождения </p>
+                        <input type="date" name="data" placeholder="Дата рождения" style="  background-attachment:
+scroll
+;
+background-clip:
+border-box
+;
+background-color:
+rgba(0, 0, 0, 0.04)
+;
+background-image:
+none
+;
+background-origin:
+padding-box
+;
+background-position-x:
+0%
+;
+background-position-y:
+0%
+;
+background-repeat-x:
+;
+background-repeat-y:
+;
+background-size:
+auto
+;
+border-bottom-color:
+rgb(78, 72, 82)
+;
+border-bottom-left-radius:
+3px
+;
+border-bottom-right-radius:
+3px
+;
+border-bottom-style:
+none
+;
+border-bottom-width:
+0px
+;
+border-image-outset:
+0px
+;
+border-image-repeat:
+stretch
+;
+border-image-slice:
+100%
+;
+border-image-source:
+none
+;
+border-image-width:
+1
+;
+border-left-color:
+rgb(78, 72, 82)
+;
+border-left-style:
+none
+;
+border-left-width:
+0px
+;
+border-right-color:
+rgb(78, 72, 82)
+;
+border-right-style:
+none
+;
+border-right-width:
+0px
+;
+border-top-color:
+rgb(78, 72, 82)
+;
+border-top-left-radius:
+3px
+;
+border-top-right-radius:
+3px
+;
+border-top-style:
+none
+;
+border-top-width:
+0px
+;
+box-shadow:
+none
+;
+box-sizing:
+border-box
+;
+color:
+rgb(78, 72, 82)
+;
+cursor:
+auto
+;
+display:
+block
+;
+font-family:
+'Open Sans', Helvetica, sans-serif
+                        ;
+                        font-size:
+                        16px
+                        ;
+                        font-stretch:
+                        normal
+                        ;
+                        font-style:
+                        normal
+                        ;
+                        font-variant-caps:
+                        normal
+                        ;
+                        font-variant-ligatures:
+                        normal
+                        ;
+                        font-variant-numeric:
+                        normal
+                        ;
+                        font-weight:
+                        normal
+                        ;
+                        height:
+                        44px
+                        ;
+                        letter-spacing:
+                        1.2px
+                        ;
+                        line-height:
+                        26.4px
+                        ;
+                        margin-bottom:
+                        0px
+                        ;
+                        margin-left:
+                        0px
+                        ;
+                        margin-right:
+                        0px
+                        ;
+                        margin-top:
+                        0px
+                        ;
+                        outline-color:
+                        rgb(78, 72, 82)
+                        ;
+                        outline-style:
+                        none
+                        ;
+                        outline-width:
+                        0px
+                        ;
+                        padding-bottom:
+                        0px
+                        ;
+                        padding-left:
+                        16px
+                        ;
+                        padding-right:
+                        16px
+                        ;
+                        padding-top:
+                        0px
+                        ;
+                        text-align:
+                        start
+                        ;
+                        text-decoration-color:
+                        rgb(78, 72, 82)
+                        ;
+                        text-decoration-line:
+                        none
+                        ;
+                        text-decoration-style:
+                        solid
+                        ;
+                        text-indent:
+                        0px
+                        ;
+                        text-rendering:
+                        auto
+                        ;
+                        text-shadow:
+                        none
+                        ;
+                        text-size-adjust:
+                        100%
+                        ;
+                        text-transform:
+                        none
+                        ;
+                        user-select:
+                        text
+                        ;
+                        width:
+                        520px
+                        ;
+                        word-spacing:
+                        0px
+                        ;
+                        writing-mode:
+                        horizontal-tb
+                        ;
+                        -webkit-appearance:
+                        none
+                        ;
+                        -webkit-rtl-ordering:
+                        logical
+                        ;
+                        -webkit-border-image:
+                        none
+                        ;width: 75%;" required><br>
+                        <input type="text" name="mest" placeholder="Место рождения" style=" width: 75%" required>
+                        <br>
+                        <input type="text" name="mepro" placeholder="Место проживания" style=" width: 75%" required>
+                        <br>
+                        <input type="number" name="nunb" placeholder="Серия и номер паспорта" style="  background-attachment:
+scroll
+;
+background-clip:
+border-box
+;
+background-color:
+rgba(0, 0, 0, 0.04)
+;
+background-image:
+none
+;
+background-origin:
+padding-box
+;
+background-position-x:
+0%
+;
+background-position-y:
+0%
+;
+background-repeat-x:
+;
+background-repeat-y:
+;
+background-size:
+auto
+;
+border-bottom-color:
+rgb(78, 72, 82)
+;
+border-bottom-left-radius:
+3px
+;
+border-bottom-right-radius:
+3px
+;
+border-bottom-style:
+none
+;
+border-bottom-width:
+0px
+;
+border-image-outset:
+0px
+;
+border-image-repeat:
+stretch
+;
+border-image-slice:
+100%
+;
+border-image-source:
+none
+;
+border-image-width:
+1
+;
+border-left-color:
+rgb(78, 72, 82)
+;
+border-left-style:
+none
+;
+border-left-width:
+0px
+;
+border-right-color:
+rgb(78, 72, 82)
+;
+border-right-style:
+none
+;
+border-right-width:
+0px
+;
+border-top-color:
+rgb(78, 72, 82)
+;
+border-top-left-radius:
+3px
+;
+border-top-right-radius:
+3px
+;
+border-top-style:
+none
+;
+border-top-width:
+0px
+;
+box-shadow:
+none
+;
+box-sizing:
+border-box
+;
+color:
+rgb(78, 72, 82)
+;
+cursor:
+auto
+;
+display:
+block
+;
+font-family:
+'Open Sans', Helvetica, sans-serif
+                        ;
+                        font-size:
+                        16px
+                        ;
+                        font-stretch:
+                        normal
+                        ;
+                        font-style:
+                        normal
+                        ;
+                        font-variant-caps:
+                        normal
+                        ;
+                        font-variant-ligatures:
+                        normal
+                        ;
+                        font-variant-numeric:
+                        normal
+                        ;
+                        font-weight:
+                        normal
+                        ;
+                        height:
+                        44px
+                        ;
+                        letter-spacing:
+                        1.2px
+                        ;
+                        line-height:
+                        26.4px
+                        ;
+                        margin-bottom:
+                        0px
+                        ;
+                        margin-left:
+                        0px
+                        ;
+                        margin-right:
+                        0px
+                        ;
+                        margin-top:
+                        0px
+                        ;
+                        outline-color:
+                        rgb(78, 72, 82)
+                        ;
+                        outline-style:
+                        none
+                        ;
+                        outline-width:
+                        0px
+                        ;
+                        padding-bottom:
+                        0px
+                        ;
+                        padding-left:
+                        16px
+                        ;
+                        padding-right:
+                        16px
+                        ;
+                        padding-top:
+                        0px
+                        ;
+                        text-align:
+                        start
+                        ;
+                        text-decoration-color:
+                        rgb(78, 72, 82)
+                        ;
+                        text-decoration-line:
+                        none
+                        ;
+                        text-decoration-style:
+                        solid
+                        ;
+                        text-indent:
+                        0px
+                        ;
+                        text-rendering:
+                        auto
+                        ;
+                        text-shadow:
+                        none
+                        ;
+                        text-size-adjust:
+                        100%
+                        ;
+                        text-transform:
+                        none
+                        ;
+                        user-select:
+                        text
+                        ;
+                        width:
+                        520px
+                        ;
+                        word-spacing:
+                        0px
+                        ;
+                        writing-mode:
+                        horizontal-tb
+                        ;
+                        -webkit-appearance:
+                        none
+                        ;
+                        -webkit-rtl-ordering:
+                        logical
+                        ;
+                        -webkit-border-image:
+                        none
+                        ;width: 75%;"
+                               required> <br>
+                        <input type="text" name="vidn" placeholder="Выдан" style=" width: 75%" required> <br>
+                        <input type="number" name="code" placeholder="Код подразделения" style="  background-attachment:
+scroll
+;
+background-clip:
+border-box
+;
+background-color:
+rgba(0, 0, 0, 0.04)
+;
+background-image:
+none
+;
+background-origin:
+padding-box
+;
+background-position-x:
+0%
+;
+background-position-y:
+0%
+;
+background-repeat-x:
+;
+background-repeat-y:
+;
+background-size:
+auto
+;
+border-bottom-color:
+rgb(78, 72, 82)
+;
+border-bottom-left-radius:
+3px
+;
+border-bottom-right-radius:
+3px
+;
+border-bottom-style:
+none
+;
+border-bottom-width:
+0px
+;
+border-image-outset:
+0px
+;
+border-image-repeat:
+stretch
+;
+border-image-slice:
+100%
+;
+border-image-source:
+none
+;
+border-image-width:
+1
+;
+border-left-color:
+rgb(78, 72, 82)
+;
+border-left-style:
+none
+;
+border-left-width:
+0px
+;
+border-right-color:
+rgb(78, 72, 82)
+;
+border-right-style:
+none
+;
+border-right-width:
+0px
+;
+border-top-color:
+rgb(78, 72, 82)
+;
+border-top-left-radius:
+3px
+;
+border-top-right-radius:
+3px
+;
+border-top-style:
+none
+;
+border-top-width:
+0px
+;
+box-shadow:
+none
+;
+box-sizing:
+border-box
+;
+color:
+rgb(78, 72, 82)
+;
+cursor:
+auto
+;
+display:
+block
+;
+font-family:
+'Open Sans', Helvetica, sans-serif
+                        ;
+                        font-size:
+                        16px
+                        ;
+                        font-stretch:
+                        normal
+                        ;
+                        font-style:
+                        normal
+                        ;
+                        font-variant-caps:
+                        normal
+                        ;
+                        font-variant-ligatures:
+                        normal
+                        ;
+                        font-variant-numeric:
+                        normal
+                        ;
+                        font-weight:
+                        normal
+                        ;
+                        height:
+                        44px
+                        ;
+                        letter-spacing:
+                        1.2px
+                        ;
+                        line-height:
+                        26.4px
+                        ;
+                        margin-bottom:
+                        0px
+                        ;
+                        margin-left:
+                        0px
+                        ;
+                        margin-right:
+                        0px
+                        ;
+                        margin-top:
+                        0px
+                        ;
+                        outline-color:
+                        rgb(78, 72, 82)
+                        ;
+                        outline-style:
+                        none
+                        ;
+                        outline-width:
+                        0px
+                        ;
+                        padding-bottom:
+                        0px
+                        ;
+                        padding-left:
+                        16px
+                        ;
+                        padding-right:
+                        16px
+                        ;
+                        padding-top:
+                        0px
+                        ;
+                        text-align:
+                        start
+                        ;
+                        text-decoration-color:
+                        rgb(78, 72, 82)
+                        ;
+                        text-decoration-line:
+                        none
+                        ;
+                        text-decoration-style:
+                        solid
+                        ;
+                        text-indent:
+                        0px
+                        ;
+                        text-rendering:
+                        auto
+                        ;
+                        text-shadow:
+                        none
+                        ;
+                        text-size-adjust:
+                        100%
+                        ;
+                        text-transform:
+                        none
+                        ;
+                        user-select:
+                        text
+                        ;
+                        width:
+                        520px
+                        ;
+                        word-spacing:
+                        0px
+                        ;
+                        writing-mode:
+                        horizontal-tb
+                        ;
+                        -webkit-appearance:
+                        none
+                        ;
+                        -webkit-rtl-ordering:
+                        logical
+                        ;
+                        -webkit-border-image:
+                        none
+                        ;width: 75%;" required>
+                        <br>
+                        <p align="left" style="margin-left: 13%; margin-bottom: -0.3ex"> Дата выдачи </p>
+                        <input type="date" name="davi" placeholder="Дата выдачи" style="  background-attachment:
+scroll
+;
+background-clip:
+border-box
+;
+background-color:
+rgba(0, 0, 0, 0.04)
+;
+background-image:
+none
+;
+background-origin:
+padding-box
+;
+background-position-x:
+0%
+;
+background-position-y:
+0%
+;
+background-repeat-x:
+;
+background-repeat-y:
+;
+background-size:
+auto
+;
+border-bottom-color:
+rgb(78, 72, 82)
+;
+border-bottom-left-radius:
+3px
+;
+border-bottom-right-radius:
+3px
+;
+border-bottom-style:
+none
+;
+border-bottom-width:
+0px
+;
+border-image-outset:
+0px
+;
+border-image-repeat:
+stretch
+;
+border-image-slice:
+100%
+;
+border-image-source:
+none
+;
+border-image-width:
+1
+;
+border-left-color:
+rgb(78, 72, 82)
+;
+border-left-style:
+none
+;
+border-left-width:
+0px
+;
+border-right-color:
+rgb(78, 72, 82)
+;
+border-right-style:
+none
+;
+border-right-width:
+0px
+;
+border-top-color:
+rgb(78, 72, 82)
+;
+border-top-left-radius:
+3px
+;
+border-top-right-radius:
+3px
+;
+border-top-style:
+none
+;
+border-top-width:
+0px
+;
+box-shadow:
+none
+;
+box-sizing:
+border-box
+;
+color:
+rgb(78, 72, 82)
+;
+cursor:
+auto
+;
+display:
+block
+;
+font-family:
+'Open Sans', Helvetica, sans-serif
+                        ;
+                        font-size:
+                        16px
+                        ;
+                        font-stretch:
+                        normal
+                        ;
+                        font-style:
+                        normal
+                        ;
+                        font-variant-caps:
+                        normal
+                        ;
+                        font-variant-ligatures:
+                        normal
+                        ;
+                        font-variant-numeric:
+                        normal
+                        ;
+                        font-weight:
+                        normal
+                        ;
+                        height:
+                        44px
+                        ;
+                        letter-spacing:
+                        1.2px
+                        ;
+                        line-height:
+                        26.4px
+                        ;
+                        margin-bottom:
+                        0px
+                        ;
+                        margin-left:
+                        0px
+                        ;
+                        margin-right:
+                        0px
+                        ;
+                        margin-top:
+                        0px
+                        ;
+                        outline-color:
+                        rgb(78, 72, 82)
+                        ;
+                        outline-style:
+                        none
+                        ;
+                        outline-width:
+                        0px
+                        ;
+                        padding-bottom:
+                        0px
+                        ;
+                        padding-left:
+                        16px
+                        ;
+                        padding-right:
+                        16px
+                        ;
+                        padding-top:
+                        0px
+                        ;
+                        text-align:
+                        start
+                        ;
+                        text-decoration-color:
+                        rgb(78, 72, 82)
+                        ;
+                        text-decoration-line:
+                        none
+                        ;
+                        text-decoration-style:
+                        solid
+                        ;
+                        text-indent:
+                        0px
+                        ;
+                        text-rendering:
+                        auto
+                        ;
+                        text-shadow:
+                        none
+                        ;
+                        text-size-adjust:
+                        100%
+                        ;
+                        text-transform:
+                        none
+                        ;
+                        user-select:
+                        text
+                        ;
+                        width:
+                        520px
+                        ;
+                        word-spacing:
+                        0px
+                        ;
+                        writing-mode:
+                        horizontal-tb
+                        ;
+                        -webkit-appearance:
+                        none
+                        ;
+                        -webkit-rtl-ordering:
+                        logical
+                        ;
+                        -webkit-border-image:
+                        none
+                        ;width: 75%;" required> <br>
+
+                        <input type="email" name="mail" placeholder="E-mail" style=" width: 74.5%" required> <br>
+                        <input type="tel" name="telf" placeholder="Контактный телефон" style="  background-attachment:
+scroll
+;
+background-clip:
+border-box
+;
+background-color:
+rgba(0, 0, 0, 0.04)
+;
+background-image:
+none
+;
+background-origin:
+padding-box
+;
+background-position-x:
+0%
+;
+background-position-y:
+0%
+;
+background-repeat-x:
+;
+background-repeat-y:
+;
+background-size:
+auto
+;
+border-bottom-color:
+rgb(78, 72, 82)
+;
+border-bottom-left-radius:
+3px
+;
+border-bottom-right-radius:
+3px
+;
+border-bottom-style:
+none
+;
+border-bottom-width:
+0px
+;
+border-image-outset:
+0px
+;
+border-image-repeat:
+stretch
+;
+border-image-slice:
+100%
+;
+border-image-source:
+none
+;
+border-image-width:
+1
+;
+border-left-color:
+rgb(78, 72, 82)
+;
+border-left-style:
+none
+;
+border-left-width:
+0px
+;
+border-right-color:
+rgb(78, 72, 82)
+;
+border-right-style:
+none
+;
+border-right-width:
+0px
+;
+border-top-color:
+rgb(78, 72, 82)
+;
+border-top-left-radius:
+3px
+;
+border-top-right-radius:
+3px
+;
+border-top-style:
+none
+;
+border-top-width:
+0px
+;
+box-shadow:
+none
+;
+box-sizing:
+border-box
+;
+color:
+rgb(78, 72, 82)
+;
+cursor:
+auto
+;
+display:
+block
+;
+font-family:
+'Open Sans', Helvetica, sans-serif
+                        ;
+                        font-size:
+                        16px
+                        ;
+                        font-stretch:
+                        normal
+                        ;
+                        font-style:
+                        normal
+                        ;
+                        font-variant-caps:
+                        normal
+                        ;
+                        font-variant-ligatures:
+                        normal
+                        ;
+                        font-variant-numeric:
+                        normal
+                        ;
+                        font-weight:
+                        normal
+                        ;
+                        height:
+                        44px
+                        ;
+                        letter-spacing:
+                        1.2px
+                        ;
+                        line-height:
+                        26.4px
+                        ;
+                        margin-bottom:
+                        0px
+                        ;
+                        margin-left:
+                        0px
+                        ;
+                        margin-right:
+                        0px
+                        ;
+                        margin-top:
+                        0px
+                        ;
+                        outline-color:
+                        rgb(78, 72, 82)
+                        ;
+                        outline-style:
+                        none
+                        ;
+                        outline-width:
+                        0px
+                        ;
+                        padding-bottom:
+                        0px
+                        ;
+                        padding-left:
+                        16px
+                        ;
+                        padding-right:
+                        16px
+                        ;
+                        padding-top:
+                        0px
+                        ;
+                        text-align:
+                        start
+                        ;
+                        text-decoration-color:
+                        rgb(78, 72, 82)
+                        ;
+                        text-decoration-line:
+                        none
+                        ;
+                        text-decoration-style:
+                        solid
+                        ;
+                        text-indent:
+                        0px
+                        ;
+                        text-rendering:
+                        auto
+                        ;
+                        text-shadow:
+                        none
+                        ;
+                        text-size-adjust:
+                        100%
+                        ;
+                        text-transform:
+                        none
+                        ;
+                        user-select:
+                        text
+                        ;
+                        width:
+                        520px
+                        ;
+                        word-spacing:
+                        0px
+                        ;
+                        writing-mode:
+                        horizontal-tb
+                        ;
+                        -webkit-appearance:
+                        none
+                        ;
+                        -webkit-rtl-ordering:
+                        logical
+                        ;
+                        -webkit-border-image:
+                        none
+                        ;width: 75%;"
+                               required><br>
+                        <input name="login" type="text" placeholder="Логин"  style=" width: 75%" required><br>
+                        <input name="password" type="password" placeholder="Пароль" style=" width: 75%" required><br>
+                        <input name="password2" type="password" placeholder="Повторите пароль" style=" width: 75%"  required><br>
+                    <input name="check" type="checkbox" style="background-color: #999999"  checked> Я согласен с <a href="../additional/compliance.php" > Условиями обработки персональной информации </a><br><br>
+
+                        <button name="reg_ok" type="submit">Зарегистрироваться</button>
+                    </p>
+                </form>
+
+            </div>
